@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.venv-build/
+.claude/
+build/work/
+build/work-console/
+build/spec/
+build/spec-console/
+dist/
+*.spec
+test-config.json
+*.log

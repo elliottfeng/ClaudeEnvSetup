@@ -1,0 +1,11 @@
+[project]
+name = "claude-env-setup"
+version = "1.0.0"
+description = "Claude Code 环境检测与静默安装工具"
+requires-python = ">=3.10,<3.16"
+dependencies = []
+
+[tool.pyinstaller]
+name = "ClaudeEnvSetup"
+onefile = true
+windowed = true

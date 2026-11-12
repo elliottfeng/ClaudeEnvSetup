@@ -1,0 +1,32 @@
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(1, 0, 0, 0),
+    prodvers=(1, 0, 0, 0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+  ),
+  kids=[
+    StringFileInfo(
+      [
+        StringTable(
+          '080404b0',
+          [
+            StringStruct('CompanyName', 'ClaudeEnvSetup'),
+            StringStruct('FileDescription', 'Claude Code 环境检测与安装工具'),
+            StringStruct('FileVersion', '1.0.0.0'),
+            StringStruct('InternalName', 'ClaudeEnvSetup'),
+            StringStruct('LegalCopyright', 'Copyright (c) 2026'),
+            StringStruct('OriginalFilename', 'ClaudeEnvSetup.exe'),
+            StringStruct('ProductName', 'Claude Code 环境配置助手'),
+            StringStruct('ProductVersion', '1.0.0.0')
+          ]
+        )
+      ]
+    ),
+    VarFileInfo([VarStruct('Translation', [2052, 1200])])
+  ]
+)
